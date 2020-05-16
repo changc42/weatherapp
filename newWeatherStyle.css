@@ -1,0 +1,58 @@
+*{
+	color: white;
+}
+
+#body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	min-width: 350px;
+	padding: 0px;
+	margin: 0px;
+	background-image: linear-gradient(#81D4FA, #4FC3F7);
+}
+
+#locationName{
+}
+
+#summary{
+	padding: 0px;
+	margin: 0px;
+}
+
+#containerCol{
+	display: flex;
+	flex-direction: column;
+	padding: 0px;
+	margin: 0px;
+	align-items: center;
+}
+
+#containerRow{
+	display: flex;
+	padding: 0px;
+	margin: 0px;
+}
+
+#animation{
+}
+
+#temperature{
+	flex:1;
+	padding: 0px;
+	margin: 0px;
+}
+
+#tempUnit{
+	flex:1;
+	padding: 0px;
+	margin: 0px;
+}
+
+#button{
+	margin-left: 100px;
+	position: absolute;
+	color: black;
+}
+
